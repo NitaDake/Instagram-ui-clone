@@ -1,0 +1,26 @@
+h1{
+    font-size: 30px;
+}
+.info-box{
+    display: flex;
+}
+.date-box{
+    margin: 4px 36px 7px 15px;
+    text-align: center;
+}
+.date-box b{
+font-size: 20px;
+}
+.date-box p{
+    margin: 2px;
+    font-size: 12px;
+    color:gray;
+    font-weight: 500;
+}
+.text-button{
+    margin-left: 10px;
+    text-transform: initial;
+    --padding-start: 17px;
+    --padding-end:17px
+
+}
